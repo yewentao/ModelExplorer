@@ -1,0 +1,17 @@
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.dll
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pdb
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\bin\ARM\Debug\Assembly-CSharp-firstpass.pri
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.dll
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.pdb
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\priconfig.xml.intermediate
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\layout.resfiles.intermediate
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\resources.resfiles.intermediate
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\pri.resfiles.intermediate
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\qualifiers.txt.intermediate
+C:\文档\HoloLens\Demo项目\HolographicAcademy-Holograms-211-Gesture\Starting\ModelExplorer\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
